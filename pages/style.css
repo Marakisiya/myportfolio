@@ -394,7 +394,11 @@ section {
     justify-content: flex-end;
   }
 }
-
+.slider__image {
+	
+ height: 35rem;
+ width: 45rem;	
+}
 .slider__nav__button {
   margin: 0;
   -webkit-appearance: none;

@@ -56,7 +56,7 @@ section {
   margin-top: 1rem;
   border-radius: 4rem;
   background: #d96846;
-  padding: .7rem;
+  padding: .2rem;
   font-size: 1.5rem;
   color: #fff;
   padding-left: 2rem;
@@ -69,7 +69,7 @@ section {
   font-size: 1.5rem;
   text-align: center;
   background: #fff;
-  color: #fff;
+  color: #d96846;
   border-radius: 50%;
   margin-left: 1rem;
   -webkit-transition: .2s linear;
@@ -79,6 +79,7 @@ section {
 .btn:hover i {
   margin-left: 2rem;
 }
+
 
 .navbar {
   #position: fixed;

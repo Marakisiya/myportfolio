@@ -54,10 +54,10 @@ section {
 .btn {
   display: inline-block;
   margin-top: 1rem;
-  border-radius: 5rem;
+  border-radius: 4rem;
   background: #d96846;
-  padding: .7rem;
-  font-size: 1.7rem;
+  padding: .2rem;
+  font-size: 1.5rem;
   color: #fff;
   padding-left: 2rem;
 }
@@ -66,10 +66,10 @@ section {
   height: 4rem;
   width: 4rem;
   line-height: 4rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
   text-align: center;
   background: #fff;
-  color: #fff;
+  color: #d96846;
   border-radius: 50%;
   margin-left: 1rem;
   -webkit-transition: .2s linear;
@@ -79,7 +79,6 @@ section {
 .btn:hover i {
   margin-left: 2rem;
 }
-
 .navbar {
   #position: fixed;
   bottom: 0;

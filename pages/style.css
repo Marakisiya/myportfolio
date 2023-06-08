@@ -299,6 +299,30 @@ section {
 
 }
 
+.slider .heading {
+  text-align: center;
+  font-size: 2vw;
+  color: #2f3020;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+
+}
+
+
+
+
+
+
+.slider .heading1 {
+  text-align: center;
+  font-size: 2vw;
+  color: #cdcbd6;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+
+}
+
+
 .slider__content {
   overflow-x: scroll;
   -ms-scroll-snap-type: x mandatory;

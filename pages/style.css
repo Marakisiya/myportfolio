@@ -38,18 +38,7 @@ section {
   padding: 5rem 9%;
 }
 
-.heading {
-  text-align: center;
-  font-size: 6vw;
-  color: #fff;
-  margin-bottom: 3rem;
-  text-transform: uppercase;
-}
 
-.heading span {
-  text-transform: uppercase;
-  color: #2f3020;
-}
 
 .btn {
   display: inline-block;
